@@ -1,4 +1,6 @@
   //Abdullahi Abdirahman Hasan//
+   //id :c6230009
+    //cns231
 
 import java.util.Scanner;
 public class EVCprogramjava {
@@ -99,7 +101,7 @@ public class EVCprogramjava {
                 }
                 default -> {
                     System.out.println("Doorasho khaldan");
-                    return; 
+                    return;
                 }
             }
         }
