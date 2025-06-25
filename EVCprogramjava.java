@@ -1,3 +1,4 @@
+  //Abdullahi Abdirahman Hasan//
 
 import java.util.Scanner;
 public class EVCprogramjava {
@@ -94,11 +95,11 @@ public class EVCprogramjava {
                 }
                 case 9 -> {
                     System.out.println("Waad ka baxday EVCPlus");
-                    return; // menu xirid
+                    return;
                 }
                 default -> {
                     System.out.println("Doorasho khaldan");
-                    return; // menu xirid
+                    return; 
                 }
             }
         }
